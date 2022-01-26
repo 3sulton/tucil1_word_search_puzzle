@@ -11,18 +11,7 @@ Kompilasi Program
 - ketik g++ main.cpp -o ../bin/main
 - akan muncul program main.exe pada folder bin
 Running Program
-- masukkan file txt berisi puzzle dan daftar kata dengan format sebagai berikut ke dalam folder test
-
-<puzzle ukuran berapapun>
-X X X X X
-X X X X X
-X X X X X
-<spasi>
-<daftar kata>
-XXX
-XXX
-XXX
-  
+- masukkan file txt berisi puzzle dan daftar kata ke dalam folder test
 - Arahakan terminal dalam folder bin
 - ketik ./main pada terminal
 - masukkan nama file txt sebagai input pada program dengan format <nama_file>.txt
