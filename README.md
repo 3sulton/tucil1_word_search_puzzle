@@ -12,7 +12,7 @@ Kompilasi Program
 - akan muncul program main.exe pada folder bin
 Running Program
 - masukkan file txt berisi puzzle dan daftar kata dengan format sebagai berikut ke dalam folder test
-- 
+
 <puzzle ukuran berapapun>
 X X X X X
 X X X X X
