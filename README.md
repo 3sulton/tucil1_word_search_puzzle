@@ -25,5 +25,4 @@ XXX
 - ketik ./main pada terminal
 - masukkan nama file txt sebagai input pada program dengan format <nama_file>.txt
 
-
 made with <3 by Tri Sulton Adila / K03 / 13520033
